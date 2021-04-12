@@ -15,5 +15,5 @@ Repo with C code: https://github.com/AkhileshThite/3D-Donut
 
 
 
-![gif of donut](donut.gif)
+
 
